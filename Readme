@@ -1,0 +1,4 @@
+This directory contains code for image inpainting, in which we can recovery the original 
+image with only 5 percent samples.
+
+To compile this code, you need to install OpenCV, Eigen, libigl in your computer
